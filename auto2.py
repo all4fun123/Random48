@@ -187,7 +187,7 @@ async def run_event_flow(username, key, state):
 
                 maker_code = "BEAuSN19"
                 backend_key_sign = "de54c591d457ed1f1769dda0013c9d30f6fc9bbff0b36ea0a425233bd82a1a22"
-                login_url = "https://share9.noinhongaydong276.workers.dev/"
+                login_url = "https://share10.noinhongaydong276.workers.dev/"
                 au_url = "https://au.vtc.vn"
 
                 def get_current_timestamp():
